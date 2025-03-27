@@ -1,1 +1,9 @@
-[{"name":"BlueLockCollection","cards":{"name":"Isagi","ID":"1"},{"name":"Bachira","ID":"2"}}]
+[
+    {
+        "name": "BlueLockCollection",
+        "cards": [
+            {"name": "Isagi", "ID": "1"},
+            {"name": "Bachira", "ID": "2"}
+        ]
+    }
+]
