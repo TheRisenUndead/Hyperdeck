@@ -1,38 +1,73 @@
 [
     {
-        "name": "BlueLockCollection",
-        "length": "2",
-        "imagePath": "/ASSETS/BlueLockCollection/BlueLockCollectionPack.jpg",
-        "cards": [
-            {"name": "Isagi", "ID": "1", "imagePath": "/ASSETS/BlueLockCollection/Isagi.png", "Rarity": "Common"},
-            {"name": "Bachira", "ID": "2", "imagePath": "/ASSETS/BlueLockCollection/Bachira.png", "Rarity": "Uncommon"}
-        ]
-    },
+    "name": "BlueLockCollection",
+    "length": "16",
+    "imagePath": "/ASSETS/BlueLockCollection/BlueLockCollectionPack.jpg",
+    "cards": [
+        {"name": "Isagi", "ID": "1", "imagePath": "/ASSETS/BlueLockCollection/Isagi.png", "Rarity": "Common"},
+        {"name": "Bachira", "ID": "2", "imagePath": "/ASSETS/BlueLockCollection/Bachira.png", "Rarity": "Uncommon"},
+        {"name": "Rin", "ID": "3", "imagePath": "/ASSETS/BlueLockCollection/Rin.png", "Rarity": "Legendary"},
+        {"name": "Shidou", "ID": "4", "imagePath": "/ASSETS/BlueLockCollection/Shidou.png", "Rarity": "Legendary"},
+        {"name": "Sae", "ID": "5", "imagePath": "/ASSETS/BlueLockCollection/Sae.png", "Rarity": "Mythic"},
+        {"name": "Loki", "ID": "6", "imagePath": "/ASSETS/BlueLockCollection/Loki.png", "Rarity": "Mythic"},
+        {"name": "Reo", "ID": "7", "imagePath": "/ASSETS/BlueLockCollection/Reo.png", "Rarity": "Epic"},
+        {"name": "Nagi", "ID": "8", "imagePath": "/ASSETS/BlueLockCollection/Nagi.png", "Rarity": "Legendary"},
+        {"name": "Barou", "ID": "9", "imagePath": "/ASSETS/BlueLockCollection/Barou.png", "Rarity": "Epic"},
+        {"name": "Kira", "ID": "10", "imagePath": "/ASSETS/BlueLockCollection/Kira.png", "Rarity": "Uncommon"},
+        {"name": "Chigiri", "ID": "11", "imagePath": "/ASSETS/BlueLockCollection/Chigiri.png", "Rarity": "Rare"},
+        {"name": "Kunigami", "ID": "12", "imagePath": "/ASSETS/BlueLockCollection/Kunigami.png", "Rarity": "Rare"},
+        {"name": "Aiku", "ID": "13", "imagePath": "/ASSETS/BlueLockCollection/Aiku.png", "Rarity": "Epic"},
+        {"name": "Zantetsu", "ID": "14", "imagePath": "/ASSETS/BlueLockCollection/Zantetsu.png", "Rarity": "Rare"},
+        {"name": "Gagamaru", "ID": "15", "imagePath": "/ASSETS/BlueLockCollection/Gagamaru.png", "Rarity": "Uncommon"},
+        {"name": "Naruhaya", "ID": "16", "imagePath": "/ASSETS/BlueLockCollection/Naruhaya.png", "Rarity": "Common"}
+    ]
+},
     {
-        "name": "InvincibleCollection",
-        "length": "2",
-        "imagePath": "/ASSETS/InvincibleCollection/InvincibleCollectionPack.jpg",
-        "cards": [
-            {"name": "Invincible(Mark Grayson)", "ID": "3", "imagePath": "/ASSETS/InvincibleCollection/Invincible(Mark Grayson).png", "Rarity": "Common"},
-            {"name": "Omniman", "ID": "4", "imagePath": "/ASSETS/InvincibleCollection/Omniman.png", "Rarity": "Rare"}
-        ]
-    },
+    "name": "InvincibleCollection",
+    "length": "9",
+    "imagePath": "/ASSETS/InvincibleCollection/InvincibleCollectionPack.jpg",
+    "cards": [
+        {"name": "Invincible (Mark Grayson)", "ID": "17", "imagePath": "/ASSETS/InvincibleCollection/Invincible(Mark Grayson).png", "Rarity": "Common"},
+        {"name": "Omniman", "ID": "18", "imagePath": "/ASSETS/InvincibleCollection/Omniman.png", "Rarity": "Rare"},
+        {"name": "Atom Eve", "ID": "19", "imagePath": "/ASSETS/InvincibleCollection/AtomEve.png", "Rarity": "Epic"},
+        {"name": "Robot", "ID": "20", "imagePath": "/ASSETS/InvincibleCollection/Robot.png", "Rarity": "Epic"},
+        {"name": "Rex Splode", "ID": "21", "imagePath": "/ASSETS/InvincibleCollection/RexSplode.png", "Rarity": "Uncommon"},
+        {"name": "Duplicate", "ID": "22", "imagePath": "/ASSETS/InvincibleCollection/Duplicate.png", "Rarity": "Rare"},
+        {"name": "Immortal", "ID": "23", "imagePath": "/ASSETS/InvincibleCollection/Immortal.png", "Rarity": "Legendary"},
+        {"name": "Monster Girl", "ID": "24", "imagePath": "/ASSETS/InvincibleCollection/MonsterGirl.png", "Rarity": "Uncommon"},
+        {"name": "War Woman", "ID": "25", "imagePath": "/ASSETS/InvincibleCollection/WarWoman.png", "Rarity": "Rare"}
+    ]
+},
     {
-        "name": "ArcaneCollection",
-        "length": "2",
-        "imagePath": "/ASSETS/ArcaneCollection/ArcaneCollectionPack.jpg",
-        "cards": [
-            {"name": "Powder", "ID": "5", "imagePath": "/ASSETS/ArcaneCollection/Powder.png", "Rarity": "Common"},
-            {"name": "Vi", "ID": "6", "imagePath": "/ASSETS/ArcaneCollection/Vi.png", "Rarity": "Common"}
-        ]
-    },
+    "name": "ArcaneCollection",
+    "length": "8",
+    "imagePath": "/ASSETS/ArcaneCollection/ArcaneCollectionPack.jpg",
+    "cards": [
+        {"name": "Powder", "ID": "26", "imagePath": "/ASSETS/ArcaneCollection/Powder.png", "Rarity": "Common"},
+        {"name": "Vi", "ID": "27", "imagePath": "/ASSETS/ArcaneCollection/Vi.png", "Rarity": "Uncommon"},
+        {"name": "Jinx", "ID": "28", "imagePath": "/ASSETS/ArcaneCollection/Jinx.png", "Rarity": "Legendary"},
+        {"name": "Jayce", "ID": "29", "imagePath": "/ASSETS/ArcaneCollection/Jayce.png", "Rarity": "Epic"},
+        {"name": "Caitlyn", "ID": "30", "imagePath": "/ASSETS/ArcaneCollection/Caitlyn.png", "Rarity": "Rare"},
+        {"name": "Silco", "ID": "31", "imagePath": "/ASSETS/ArcaneCollection/Silco.png", "Rarity": "Legendary"},
+        {"name": "Heimerdinger", "ID": "32", "imagePath": "/ASSETS/ArcaneCollection/Heimerdinger.png", "Rarity": "Rare"},
+        {"name": "Ekko", "ID": "33", "imagePath": "/ASSETS/ArcaneCollection/Ekko.png", "Rarity": "Epic"}
+    ]
+},
     {
-        "name": "BreakingBadCollection",
-        "length": "2",
-        "imagePath": "/ASSETS/BreakingBadCollection/BreakingBadCollectionPack.jpg",
-        "cards": [
-            {"name": "Walter White", "ID": "7", "imagePath": "/ASSETS/BreakingBadCollection/WalterWhite.png", "Rarity": "Common"},
-            {"name": "Jessie Pinkman", "ID": "8", "imagePath": "/ASSETS/BreakingBadCollection/JessiePinkman.png", "Rarity": "Common"}
-        ]
-    }
+    "name": "BreakingBadCollection",
+    "length": "10",
+    "imagePath": "/ASSETS/BreakingBadCollection/BreakingBadCollectionPack.jpg",
+    "cards": [
+        {"name": "Walter White", "ID": "34", "imagePath": "/ASSETS/BreakingBadCollection/WalterWhite.png", "Rarity": "Legendary"},
+        {"name": "Jessie Pinkman", "ID": "35", "imagePath": "/ASSETS/BreakingBadCollection/JessiePinkman.png", "Rarity": "Epic"},
+        {"name": "Hank Schrader", "ID": "36", "imagePath": "/ASSETS/BreakingBadCollection/HankSchrader.png", "Rarity": "Rare"},
+        {"name": "Saul Goodman", "ID": "37", "imagePath": "/ASSETS/BreakingBadCollection/SaulGoodman.png", "Rarity": "Rare"},
+        {"name": "Gus Fring", "ID": "38", "imagePath": "/ASSETS/BreakingBadCollection/GusFring.png", "Rarity": "Mythic"},
+        {"name": "Mike Ehrmantraut", "ID": "39", "imagePath": "/ASSETS/BreakingBadCollection/MikeEhrmantraut.png", "Rarity": "Epic"},
+        {"name": "Skyler White", "ID": "40", "imagePath": "/ASSETS/BreakingBadCollection/SkylerWhite.png", "Rarity": "Common"},
+        {"name": "Todd Alquist", "ID": "41", "imagePath": "/ASSETS/BreakingBadCollection/ToddAlquist.png", "Rarity": "Uncommon"},
+        {"name": "Lydia Rodarte-Quayle", "ID": "42", "imagePath": "/ASSETS/BreakingBadCollection/LydiaRodarteQuayle.png", "Rarity": "Uncommon"},
+        {"name": "Jesse's Parents", "ID": "43", "imagePath": "/ASSETS/BreakingBadCollection/JessesParents.png", "Rarity": "Common"}
+    ]
+}
 ]
