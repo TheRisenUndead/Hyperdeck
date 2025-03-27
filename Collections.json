@@ -16,5 +16,23 @@
             {"name": "Invincible(Mark Grayson)", "ID": "3", "imagePath": "/ASSETS/InvincibleCollection/Invincible(Mark Grayson).png"},
             {"name": "Omniman", "ID": "4", "imagePath": "/ASSETS/InvincibleCollection/Omniman.png"}
         ]
+    },
+    {
+        "name": "ArcaneCollection",
+        "length": "2",
+        "imagePath": "/ASSETS/ArcaneCollection/ArcaneCollectionPack.jpg",
+        "cards": [
+            {"name": "Powder", "ID": "5", "imagePath": "/ASSETS/ArcaneCollection/Powder.png"},
+            {"name": "Vi", "ID": "6", "imagePath": "/ASSETS/ArcaneCollection/Vi.png"}
+        ]
+    },
+    {
+        "name": "BreakingBadCollection",
+        "length": "2",
+        "imagePath": "/ASSETS/BreakingBadCollection/BreakingBadCollectionPack.jpg",
+        "cards": [
+            {"name": "Walter White", "ID": "7", "imagePath": "/ASSETS/BreakingBadCollection/WalterWhite.png"},
+            {"name": "Jessie Pinkman", "ID": "8", "imagePath": "/ASSETS/BreakingBadCollection/JessiePinkman.png"}
+        ]
     }
 ]
