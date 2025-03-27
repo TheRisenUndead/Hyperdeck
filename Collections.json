@@ -2,6 +2,7 @@
     {
         "name": "BlueLockCollection",
         "length": "2",
+        "imagePath": "/ASSETS/BlueLockCollection/BlueLockCollectionPack.png"
         "cards": [
             {"name": "Isagi", "ID": "1", "imagePath" : "/ASSETS/BlueLockCollection/Isagi.png"},
             {"name": "Bachira", "ID": "2", "imagePath" : "/ASSETS/BlueLockCollection/Bachira.png"}
