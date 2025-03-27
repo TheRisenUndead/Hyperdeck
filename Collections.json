@@ -8,4 +8,13 @@
             {"name": "Bachira", "ID": "2", "imagePath" : "/ASSETS/BlueLockCollection/Bachira.png"}
         ]
     }
+    {
+        "name": "InvincibleCollection",
+        "length": "2",
+        "imagePath": "/ASSETS/InvincibleCollection/InvincibleCollectionPack.jpg"
+        "cards": [
+            {"name": "Invincible(Mark Grayson)", "ID": "3", "imagePath" : "/ASSETS/InvincibleCollection/Invincible(Mark Grayson).png"},
+            {"name": "Omniman", "ID": "4", "imagePath" : "/ASSETS/InvincibleCollection/Omniman.png"}
+        ]
+    }
 ]
