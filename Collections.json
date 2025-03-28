@@ -21,6 +21,24 @@
         {"name": "Zantetsu", "ID": "14", "imagePath": "/ASSETS/BlueLockCollection/Zantetsu.png", "Rarity": "Rare"},
         {"name": "Gagamaru", "ID": "15", "imagePath": "/ASSETS/BlueLockCollection/Gagamaru.png", "Rarity": "Uncommon"},
         {"name": "Naruhaya", "ID": "16", "imagePath": "/ASSETS/BlueLockCollection/Naruhaya.png", "Rarity": "Common"}
+    ],
+    "shinycards": [
+        {"name": "Shiny_Isagi", "ID": "-1", "imagePath": "/ASSETS/BlueLockCollection/ShinyIsagi.png", "Rarity": "Common"},
+        {"name": "Shiny_Bachira", "ID": "-2", "imagePath": "/ASSETS/BlueLockCollection/ShinyBachira.png", "Rarity": "Uncommon"},
+        {"name": "Shiny_Rin", "ID": "-3", "imagePath": "/ASSETS/BlueLockCollection/ShinyRin.png", "Rarity": "Legendary"},
+        {"name": "Shiny_Shidou", "ID": "-4", "imagePath": "/ASSETS/BlueLockCollection/ShinyShidou.png", "Rarity": "Legendary"},
+        {"name": "Shiny_Sae", "ID": "-5", "imagePath": "/ASSETS/BlueLockCollection/ShinySae.png", "Rarity": "Mythic"},
+        {"name": "Shiny_Loki", "ID": "-6", "imagePath": "/ASSETS/BlueLockCollection/ShinyLoki.png", "Rarity": "Mythic"},
+        {"name": "Shiny_Reo", "ID": "-7", "imagePath": "/ASSETS/BlueLockCollection/ShinyReo.png", "Rarity": "Epic"},
+        {"name": "Shiny_Nagi", "ID": "-8", "imagePath": "/ASSETS/BlueLockCollection/ShinyNagi.png", "Rarity": "Legendary"},
+        {"name": "Shiny_Barou", "ID": "-9", "imagePath": "/ASSETS/BlueLockCollection/ShinyBarou.png", "Rarity": "Epic"},
+        {"name": "Shiny_Kira", "ID": "-10", "imagePath": "/ASSETS/BlueLockCollection/ShinyKira.png", "Rarity": "Uncommon"},
+        {"name": "Shiny_Chigiri", "ID": "-11", "imagePath": "/ASSETS/BlueLockCollection/ShinyChigiri.png", "Rarity": "Rare"},
+        {"name": "Shiny_Kunigami", "ID": "-12", "imagePath": "/ASSETS/BlueLockCollection/ShinyKunigami.png", "Rarity": "Rare"},
+        {"name": "Shiny_Aiku", "ID": "-13", "imagePath": "/ASSETS/BlueLockCollection/ShinyAiku.png", "Rarity": "Epic"},
+        {"name": "Shiny_Zantetsu", "ID": "-14", "imagePath": "/ASSETS/BlueLockCollection/ShinyZantetsu.png", "Rarity": "Rare"},
+        {"name": "Shiny_Gagamaru", "ID": "-15", "imagePath": "/ASSETS/BlueLockCollection/ShinyGagamaru.png", "Rarity": "Uncommon"},
+        {"name": "Shiny_Naruhaya", "ID": "-16", "imagePath": "/ASSETS/BlueLockCollection/ShinyNaruhaya.png", "Rarity": "Common"}
     ]
 },
     {
@@ -54,7 +72,18 @@
         {"name": "Silco", "ID": "31", "imagePath": "/ASSETS/ArcaneCollection/Silco.png", "Rarity": "Legendary"},
         {"name": "Heimerdinger", "ID": "32", "imagePath": "/ASSETS/ArcaneCollection/Heimerdinger.png", "Rarity": "Rare"},
         {"name": "Ekko", "ID": "33", "imagePath": "/ASSETS/ArcaneCollection/Ekko.png", "Rarity": "Epic"}
-    ]
+    ],
+    "shinycards": [
+    {"name": "Shiny_Invincible (Mark Grayson)", "ID": "-17", "imagePath": "/ASSETS/InvincibleCollection/ShinyInvincible(Mark Grayson).png", "Rarity": "Common"},
+    {"name": "Shiny_Omniman", "ID": "-18", "imagePath": "/ASSETS/InvincibleCollection/ShinyOmniman.png", "Rarity": "Rare"},
+    {"name": "Shiny_Atom Eve", "ID": "-19", "imagePath": "/ASSETS/InvincibleCollection/ShinyAtomEve.png", "Rarity": "Epic"},
+    {"name": "Shiny_Robot", "ID": "-20", "imagePath": "/ASSETS/InvincibleCollection/ShinyRobot.png", "Rarity": "Epic"},
+    {"name": "Shiny_Rex Splode", "ID": "-21", "imagePath": "/ASSETS/InvincibleCollection/ShinyRexSplode.png", "Rarity": "Uncommon"},
+    {"name": "Shiny_Duplicate", "ID": "-22", "imagePath": "/ASSETS/InvincibleCollection/ShinyDuplicate.png", "Rarity": "Rare"},
+    {"name": "Shiny_Immortal", "ID": "-23", "imagePath": "/ASSETS/InvincibleCollection/ShinyImmortal.png", "Rarity": "Legendary"},
+    {"name": "Shiny_Monster Girl", "ID": "-24", "imagePath": "/ASSETS/InvincibleCollection/ShinyMonsterGirl.png", "Rarity": "Uncommon"},
+    {"name": "Shiny_War Woman", "ID": "-25", "imagePath": "/ASSETS/InvincibleCollection/ShinyWarWoman.png", "Rarity": "Rare"}
+]
 },
     {
     "name": "BreakingBadCollection",
@@ -72,6 +101,18 @@
         {"name": "Todd Alquist", "ID": "41", "imagePath": "/ASSETS/BreakingBadCollection/ToddAlquist.png", "Rarity": "Uncommon"},
         {"name": "Lydia Rodarte-Quayle", "ID": "42", "imagePath": "/ASSETS/BreakingBadCollection/LydiaRodarteQuayle.png", "Rarity": "Uncommon"},
         {"name": "Jesse's Parents", "ID": "43", "imagePath": "/ASSETS/BreakingBadCollection/JessesParents.png", "Rarity": "Common"}
-    ]
+    ],
+    "shinycards": [
+    {"name": "Shiny_Walter White", "ID": "-34", "imagePath": "/ASSETS/BreakingBadCollection/ShinyWalterWhite.png", "Rarity": "Legendary"},
+    {"name": "Shiny_Jessie Pinkman", "ID": "-35", "imagePath": "/ASSETS/BreakingBadCollection/ShinyJessiePinkman.png", "Rarity": "Epic"},
+    {"name": "Shiny_Hank Schrader", "ID": "-36", "imagePath": "/ASSETS/BreakingBadCollection/ShinyHankSchrader.png", "Rarity": "Rare"},
+    {"name": "Shiny_Saul Goodman", "ID": "-37", "imagePath": "/ASSETS/BreakingBadCollection/ShinySaulGoodman.png", "Rarity": "Rare"},
+    {"name": "Shiny_Gus Fring", "ID": "-38", "imagePath": "/ASSETS/BreakingBadCollection/ShinyGusFring.png", "Rarity": "Mythic"},
+    {"name": "Shiny_Mike Ehrmantraut", "ID": "-39", "imagePath": "/ASSETS/BreakingBadCollection/ShinyMikeEhrmantraut.png", "Rarity": "Epic"},
+    {"name": "Shiny_Skyler White", "ID": "-40", "imagePath": "/ASSETS/BreakingBadCollection/ShinySkylerWhite.png", "Rarity": "Common"},
+    {"name": "Shiny_Todd Alquist", "ID": "-41", "imagePath": "/ASSETS/BreakingBadCollection/ShinyToddAlquist.png", "Rarity": "Uncommon"},
+    {"name": "Shiny_Lydia Rodarte-Quayle", "ID": "-42", "imagePath": "/ASSETS/BreakingBadCollection/ShinyLydiaRodarteQuayle.png", "Rarity": "Uncommon"},
+    {"name": "Shiny_Jesse's Parents", "ID": "-43", "imagePath": "/ASSETS/BreakingBadCollection/ShinyJessesParents.png", "Rarity": "Common"}
+]
 }
 ]
