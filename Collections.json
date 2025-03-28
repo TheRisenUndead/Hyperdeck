@@ -3,6 +3,7 @@
     "name": "BlueLockCollection",
     "length": "16",
     "imagePath": "/ASSETS/BlueLockCollection/BlueLockCollectionPack.jpg",
+    "ID": "1",
     "cards": [
         {"name": "Isagi", "ID": "1", "imagePath": "/ASSETS/BlueLockCollection/Isagi.png", "Rarity": "Common"},
         {"name": "Bachira", "ID": "2", "imagePath": "/ASSETS/BlueLockCollection/Bachira.png", "Rarity": "Uncommon"},
@@ -26,6 +27,7 @@
     "name": "InvincibleCollection",
     "length": "9",
     "imagePath": "/ASSETS/InvincibleCollection/InvincibleCollectionPack.jpg",
+    "ID": "2",
     "cards": [
         {"name": "Invincible (Mark Grayson)", "ID": "17", "imagePath": "/ASSETS/InvincibleCollection/Invincible(Mark Grayson).png", "Rarity": "Common"},
         {"name": "Omniman", "ID": "18", "imagePath": "/ASSETS/InvincibleCollection/Omniman.png", "Rarity": "Rare"},
@@ -42,6 +44,7 @@
     "name": "ArcaneCollection",
     "length": "8",
     "imagePath": "/ASSETS/ArcaneCollection/ArcaneCollectionPack.jpg",
+    "ID": "3",
     "cards": [
         {"name": "Powder", "ID": "26", "imagePath": "/ASSETS/ArcaneCollection/Powder.png", "Rarity": "Common"},
         {"name": "Vi", "ID": "27", "imagePath": "/ASSETS/ArcaneCollection/Vi.png", "Rarity": "Uncommon"},
@@ -57,6 +60,7 @@
     "name": "BreakingBadCollection",
     "length": "10",
     "imagePath": "/ASSETS/BreakingBadCollection/BreakingBadCollectionPack.jpg",
+    "ID": "4",
     "cards": [
         {"name": "Walter White", "ID": "34", "imagePath": "/ASSETS/BreakingBadCollection/WalterWhite.png", "Rarity": "Legendary"},
         {"name": "Jessie Pinkman", "ID": "35", "imagePath": "/ASSETS/BreakingBadCollection/JessiePinkman.png", "Rarity": "Epic"},
