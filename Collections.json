@@ -1,7 +1,7 @@
 [
   {
     "name": "BlueLockCollection",
-    "length": "16",
+    "length": "18",
     "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/BlueLockCollectionPack.jpg",
     "ID": "1",
     "cards": [
@@ -20,7 +20,9 @@
       {"name": "Aiku", "ID": "13", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Aiku.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Aiku.wav", "Rarity": "Epic"},
       {"name": "Zantetsu", "ID": "14", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Zantetsu.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Zantetsu.wav", "Rarity": "Rare"},
       {"name": "Gagamaru", "ID": "15", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Gagamaru.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Gagamaru.wav", "Rarity": "Uncommon"},
-      {"name": "Naruhaya", "ID": "16", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Naruhaya.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Naruhaya.wav", "Rarity": "Common"}
+      {"name": "Naruhaya", "ID": "16", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Naruhaya.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Naruhaya.wav", "Rarity": "Common"},
+      {"name": "NELIsagi", "ID": "83", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/NELIsagi.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/NELIsagi.wav", "Rarity": "Unobtainable"},
+      {"name": "Kaiser", "ID": "84", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Kaiser.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Kaiser.wav", "Rarity": "Unobtainable"}
     ],
    "shinycards": [
       {"name": "Shiny_Isagi", "ID": "-1", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/ShinyIsagi.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Isagi_shiny.wav", "Rarity": "Common"},
