@@ -117,14 +117,13 @@
 },
   {
   "name": "DoctorWhoCollection",
-  "length": "38",
+  "length": "39",
   "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/DoctorWhoCollectionPack.jpg",
   "ID": "5",
   "cards": [
     {"name": "Mickey Smith (early)", "ID": "44", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/MickeySmith.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/MickeySmith.wav", "Rarity": "Common"},
     {"name": "Jackie Tyler", "ID": "45", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/JackieTyler.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/JackieTyler.wav", "Rarity": "Common"},
     {"name": "Craig Owens", "ID": "46", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/CraigOwens.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/CraigOwens.wav", "Rarity": "Common"},
-
     {"name": "Graham", "ID": "47", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Graham.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Graham.wav", "Rarity": "Uncommon"},
     {"name": "Ryan", "ID": "48", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Ryan.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Ryan.wav", "Rarity": "Uncommon"},
     {"name": "Martha", "ID": "49", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Martha.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Martha.wav", "Rarity": "Uncommon"},
@@ -133,7 +132,6 @@
     {"name": "Ood", "ID": "52", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Ood.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Ood.wav", "Rarity": "Uncommon"},
     {"name": "Vashta Nerada", "ID": "53", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/VashtaNerada.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/VashtaNerada.wav", "Rarity": "Uncommon"},
     {"name": "Slitheen", "ID": "54", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Slitheen.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Slitheen.wav", "Rarity": "Uncommon"},
-
     {"name": "Donna", "ID": "55", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Donna.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Donna.wav", "Rarity": "Rare"},
     {"name": "Amy", "ID": "56", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Amy.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Amy.wav", "Rarity": "Rare"},
     {"name": "Rory", "ID": "57", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Rory.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Rory.wav", "Rarity": "Rare"},
@@ -142,7 +140,6 @@
     {"name": "Cybermen", "ID": "60", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Cybermen.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Cybermen.wav", "Rarity": "Rare"},
     {"name": "Daleks", "ID": "61", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Daleks.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Daleks.wav", "Rarity": "Rare"},
     {"name": "Weeping Angels", "ID": "62", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/WeepingAngels.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/WeepingAngels.wav", "Rarity": "Rare"},
-
     {"name": "9th Doctor", "ID": "63", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/9th.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/9thDoctor.wav", "Rarity": "Legendary"},
     {"name": "10th Doctor", "ID": "64", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/10th.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/10thDoctor.wav", "Rarity": "Legendary"},
     {"name": "11th Doctor", "ID": "65", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/11th.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/11thDoctor.wav", "Rarity": "Legendary"},
@@ -151,14 +148,12 @@
     {"name": "War Doctor", "ID": "68", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/War.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/WarDoctor.wav", "Rarity": "Legendary"},
     {"name": "Fugitive Doctor", "ID": "69", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Fugitive.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/FugitiveDoctor.wav", "Rarity": "Legendary"},
     {"name": "The Master (Simm)", "ID": "70", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/MasterSimm.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/MasterSimm.wav", "Rarity": "Legendary"},
-
     {"name": "Dream Lord", "ID": "71", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/DreamLord.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/DreamLord.wav", "Rarity": "Epic"},
     {"name": "Face of Boe", "ID": "72", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/FaceOfBoe.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/FaceOfBoe.wav", "Rarity": "Epic"},
     {"name": "River Song", "ID": "73", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/RiverSong.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/RiverSong.wav", "Rarity": "Epic"},
     {"name": "The Master (Missy)", "ID": "74", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/MasterMissy.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/MasterMissy.wav", "Rarity": "Epic"},
     {"name": "Ashildr (Me)", "ID": "75", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Ashildr.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/Ashildr.wav", "Rarity": "Epic"},
     {"name": "The Moment (Rose)", "ID": "76", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/MomentRose.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/MomentRose.wav", "Rarity": "Epic"},
-
     {"name": "The Timeless Child", "ID": "77", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/TimelessChild.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/TimelessChild.wav", "Rarity": "Mythic"},
     {"name": "The Doctor's TARDIS", "ID": "78", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/TARDIS.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/TARDIS.wav", "Rarity": "Mythic"},
     {"name": "Ko Sharmus", "ID": "79", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/KoSharmus.jpg", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/DoctorWhoCollection/KoSharmus.wav", "Rarity": "Mythic"},
