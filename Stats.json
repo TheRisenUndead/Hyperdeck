@@ -4,6 +4,9 @@
       {
         "ID": "1", "Stat1": "Speed", "Stat1Value": "75", "Stat2": "Offensive", "Stat2Value": "87", "Stat3": "Defencive", "Stat3Value": "72", "Stat4": "Shoot", "Stat4Value": "77", "Stat5": "Dribble", "Stat5Value": "65", "Stat6": "Pass", "Stat6Value": "69"
       }
+      {
+        "ID": "2", "Stat1": "Speed", "Stat1Value": "75", "Stat2": "Offensive", "Stat2Value": "87", "Stat3": "Defencive", "Stat3Value": "72", "Stat4": "Shoot", "Stat4Value": "77", "Stat5": "Dribble", "Stat5Value": "65", "Stat6": "Pass", "Stat6Value": "69"
+      }
     ]
   }
 ]
