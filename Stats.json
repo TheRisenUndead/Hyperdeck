@@ -8,7 +8,19 @@
         "ID":"-1","Stat1":"Speed","Stat1Value":"75","Stat2":"Offensive","Stat2Value":"91","Stat3":"Defensive","Stat3Value":"73","Stat4":"Shoot","Stat4Value":"78","Stat5":"Dribble","Stat5Value":"66","Stat6":"Pass","Stat6Value":"74"
       },
       {
-        "ID":"2","Stat1":"Speed","Stat1Value":"75","Stat2":"Offensive","Stat2Value":"87","Stat3":"Defensive","Stat3Value":"72","Stat4":"Shoot","Stat4Value":"77","Stat5":"Dribble","Stat5Value":"65","Stat6":"Pass","Stat6Value":"69"
+        "ID":"83","Stat1":"Speed","Stat1Value":"77","Stat2":"Offensive","Stat2Value":"94","Stat3":"Defensive","Stat3Value":"75","Stat4":"Shoot","Stat4Value":"82","Stat5":"Dribble","Stat5Value":"70","Stat6":"Pass","Stat6Value":"78"
+      },
+      {
+        "ID":"84","Stat1":"Speed","Stat1Value":"91","Stat2":"Offensive","Stat2Value":"95","Stat3":"Defensive","Stat3Value":"74","Stat4":"Shoot","Stat4Value":"99","Stat5":"Dribble","Stat5Value":"85","Stat6":"Pass","Stat6Value":"81"
+      },
+      {
+        "ID":"85","Stat1":"Speed","Stat1Value":"85","Stat2":"Offensive","Stat2Value":"94","Stat3":"Defensive","Stat3Value":"75","Stat4":"Shoot","Stat4Value":"95","Stat5":"Dribble","Stat5Value":"71","Stat6":"Pass","Stat6Value":"65"
+      },
+      {
+        "ID":"2","Stat1":"Speed","Stat1Value":"76","Stat2":"Offensive","Stat2Value":"80","Stat3":"Defensive","Stat3Value":"60","Stat4":"Shoot","Stat4Value":"75","Stat5":"Dribble","Stat5Value":"80","Stat6":"Pass","Stat6Value":"80"
+      },
+      {
+        "ID":"-2","Stat1":"Speed","Stat1Value":"77","Stat2":"Offensive","Stat2Value":"84","Stat3":"Defensive","Stat3Value":"64","Stat4":"Shoot","Stat4Value":"77","Stat5":"Dribble","Stat5Value":"90","Stat6":"Pass","Stat6Value":"84"
       }
     ]
   }
