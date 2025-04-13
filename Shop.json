@@ -1,8 +1,8 @@
 {
     "collections": [
-        "BlueLockCollection",
-        "BlueLockCollection",
         "DoctorWhoCollection",
-        "DoctorWhoCollection"
+        "DoctorWhoCollection",
+        "BlueLockCollection",
+        "BlueLockCollection"
     ]
 }
