@@ -22,7 +22,8 @@
       {"name": "Gagamaru", "ID": "15", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Gagamaru.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Gagamaru.wav", "Rarity": "Uncommon"},
       {"name": "Naruhaya", "ID": "16", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Naruhaya.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Naruhaya.wav", "Rarity": "Common"},
       {"name": "NELIsagi", "ID": "83", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/NELIsagi.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/NELIsagi.mp3", "Rarity": "Unobtainable"},
-      {"name": "Kaiser", "ID": "84", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Kaiser.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Kaiser.mp3", "Rarity": "Unobtainable"}
+      {"name": "Kaiser", "ID": "84", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Kaiser.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Kaiser.mp3", "Rarity": "Unobtainable"},
+      {"name": "NELKunigami", "ID": "85", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/NELKunigami.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/NELKunigami.mp3", "Rarity": "Unobtainable"}
     ],
    "shinycards": [
       {"name": "Shiny_Isagi", "ID": "-1", "imagePath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Isagi_shiny.png", "audioPath": "/com/senith/hyperdeck/hyperdeckv/ASSETS/BlueLockCollection/Isagi_shiny.wav", "Rarity": "Common"},
